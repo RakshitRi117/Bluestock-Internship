@@ -1,32 +1,14 @@
 # Bluestock Internship
 
-[![Status](https://img.shields.io/badge/status-in%20progress-blue)](#)
-[![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)](#)
-[![Domain](https://img.shields.io/badge/domain-FinTech%20%26%20Data%20Analytics-success)](#)
-
-A structured collection of weekly deliverables completed during the Bluestock internship, covering stock market fundamentals, financial statement analysis, API development, FinTech research, and software architecture.
+A structured record of my work during the Bluestock internship, covering data analytics, financial markets, FinTech research, and software development.
 
 ---
 
-## Table of Contents
+## About
 
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Deliverables](#deliverables)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Author](#author)
+This repository contains the weekly tasks and deliverables completed during the internship. The work combines **financial domain knowledge** with **technical skills** such as Python, data handling, SQL, and system design.
 
----
-
-## Overview
-
-This repository documents my work across the internship weeks. Each week folder contains the tasks and deliverables for that period. The work combines **financial domain knowledge** (equity markets, company analysis, FinTech platforms) with **technical skills** (Python, APIs, data handling, system design).
-
-**Goals**
-- Build a solid understanding of how stock markets and listed companies work.
-- Apply financial analysis to a real company.
-- Practise clean, reproducible, well-documented engineering.
+Work is added week by week as the internship progresses.
 
 ---
 
@@ -34,51 +16,35 @@ This repository documents my work across the internship weeks. Each week folder 
 
 ```text
 Bluestock-Internship/
-├── Week 1/        # Week 1 tasks and deliverables
-├── Week 2/        # Week 2 tasks and deliverables
-└── README.md      # Project documentation
+├── Week 1/
+│   └── README.md    # Tasks and deliverables for Week 1
+├── Week 2/
+│   └── README.md    # Tasks and deliverables for Week 2
+└── README.md        # Project overview (this file)
 ```
+
+Each week folder has its own README listing that week's tasks, files, and run instructions.
 
 ---
 
-## Deliverables
+## Weekly Progress
 
-| # | Deliverable | Format | Description |
-|---|-------------|--------|-------------|
-| 1 | Stock Market Fundamentals Summary | `.docx` | Summary of core market concepts: IPOs, book building, stock exchanges, returns (absolute return and CAGR), and valuation ratios (EPS, PE, PB). |
-| 2 | Financial Statement Analysis (TCS) | `.docx` | Analysis of TCS's financial statements covering performance, profitability and key ratios. |
-| 3 | API Assignment | `.py` | Python script that works with API data and produces the dataset used in this project. |
-| 4 | Users Dataset | `.csv` | Sample dataset used by the API assignment. |
-| 5 | Software Architecture Diagram | `.pdf` | System design diagram showing components and data flow. |
-| 6 | FinTech Research Report (Zerodha) | `.docx` | Research report on Zerodha's business model, products and position in the FinTech space. |
+| Week | Focus Area | Status |
+|------|------------|--------|
+| [Week 1](./Week%201) | Core Data Analytics Foundations | Completed |
+| [Week 2](./Week%202) | FinTech Domain & Software | Completed |
+
+More weeks and projects will be added as the internship continues.
 
 ---
 
 ## Tech Stack
 
 - **Language:** Python 3
-- **Data:** CSV
-- **Documentation:** Microsoft Word, PDF
+- **Data & Analysis:** pandas, SQL, CSV
+- **Visualization:** Power BI
+- **Documentation:** Markdown, Word, PDF
 - **Version Control:** Git and GitHub
-
----
-
-## Getting Started
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/RakshitRi117/Bluestock-Internship.git
-cd Bluestock-Internship
-```
-
-**2. Run the API assignment**
-
-```bash
-python API_Assignment.py
-```
-
-> Make sure `users.csv` is in the same directory as the script, and that you are running Python 3.
 
 ---
 
