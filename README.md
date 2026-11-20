@@ -12,7 +12,7 @@ Deliverables for Week 2 of the Bluestock Internship. This week covers stock mark
 | 2 | Financial Statement Analysis (TCS) | Word | Finance |
 | 3 | FinTech Research Report (Zerodha) | Word | FinTech |
 | 4 | Software Architecture Diagram | PDF | System Design |
-| 5 | API Assignment | Python | Development |
+| 5 | API Call Script | Python | Development |
 | 6 | Users Dataset | CSV | Data |
 
 ---
@@ -37,8 +37,8 @@ Deliverables for Week 2 of the Bluestock Internship. This week covers stock mark
 | File | Description |
 |------|-------------|
 | `Software_Architecture_Diagram.pdf` | System design diagram showing the components and data flow. |
-| `API_Assignment.py` | Python script for the API assignment. |
-| `users.csv` | Dataset used by the API assignment. |
+| `apiCall.py` | Python script that makes the API call and works with the user data. |
+| `users.csv` | Dataset used by the API script. |
 
 ---
 
@@ -48,7 +48,7 @@ Run the script from the folder that contains `users.csv`.
 
 ```bash
 cd "Week 2"
-python API_Assignment.py
+python apiCall.py
 ```
 
 **Requirements:** Python 3 and the libraries imported at the top of the script.
