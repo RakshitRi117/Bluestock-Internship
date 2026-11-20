@@ -1,0 +1,30 @@
+Product_ID,Sales_Rep,Sales_Amount,Quantity_Sold,Product_Category,Unit_Cost,Unit_Price,Discount,Payment_Method,Sales_Channel
+1022,David,8913.13,9,Electronics,2263.65,2558.95,0.03,Cash,Online
+1022,Charlie,8813.55,21,Food,2537.2,2869.6,0.29,Bank Transfer,Retail
+1088,Eve,8518.45,13,Furniture,2440.11,2517.6,0.23,Bank Transfer,Retail
+1075,Charlie,8239.58,18,Clothing,2228.35,2682.34,0.13,Bank Transfer,Online
+1087,Eve,7698.92,46,Furniture,3702.51,3964.65,0.12,Bank Transfer,Online
+1064,Eve,7412.11,10,Electronics,4764.96,5074.42,0.12,Cash,Online
+1076,Eve,7160.75,30,Clothing,3519.63,3774.65,0.2,Credit Card,Retail
+1002,David,6810.35,17,Furniture,4024.76,4420.15,0.04,Cash,Online
+1024,Eve,6607.8,21,Food,622.01,641.09,0,Bank Transfer,Retail
+1002,Eve,6551.23,9,Electronics,4398.16,4439.12,0.18,Bank Transfer,Online
+1021,Alice,6483.84,31,Furniture,2254.99,2441.79,0.24,Bank Transfer,Online
+1088,Bob,6116.75,40,Electronics,4904.93,5034.35,0.1,Credit Card,Retail
+1052,Bob,5053.97,18,Furniture,152.75,267.22,0.09,Cash,Online
+1003,Alice,4775.59,30,Furniture,4190.28,4270.65,0.2,Cash,Online
+1015,David,4631.23,30,Food,261.56,371.4,0.2,Bank Transfer,Retail
+1093,Bob,4384.02,17,Furniture,3816.39,4209.44,0.11,Cash,Retail
+1075,David,4223.39,30,Furniture,738.06,1095.45,0.05,Bank Transfer,Online
+1033,David,4011.8,23,Furniture,2981.5,3360.4,0.22,Bank Transfer,Retail
+1021,Charlie,3761.15,32,Food,900.79,1106.51,0.21,Cash,Online
+1061,Charlie,3750.2,13,Electronics,637.37,692.71,0.08,Credit Card,Online
+1060,Eve,3224.71,44,Clothing,3784.96,4276.99,0.06,Bank Transfer,Retail
+1030,David,3023.48,19,Clothing,3049.33,3209.22,0.26,Cash,Online
+1089,Bob,2945.36,47,Furniture,4157.62,4314.56,0.17,Bank Transfer,Retail
+1053,Bob,2235.83,48,Furniture,121.19,487.65,0.18,Cash,Retail
+1100,Bob,2198.74,43,Food,1100.81,1137.44,0.08,Bank Transfer,Online
+1072,Bob,2167.94,39,Clothing,4330.03,4467.75,0.02,Credit Card,Retail
+1058,Alice,2072.23,33,Furniture,1011.65,1084.28,0.07,Bank Transfer,Retail
+1038,Bob,1452.35,15,Clothing,2543.36,2790.1,0.07,Cash,Online
+1083,Bob,618.31,29,Furniture,2408.81,2624.09,0.14,Cash,Online
